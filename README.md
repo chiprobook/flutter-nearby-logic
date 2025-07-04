@@ -8,7 +8,7 @@ displaying content related to your current location, translating longitude and l
 ![Version](https://img.shields.io/badge/Version-1.0.0-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-![Demo Screenshot](assets/demo.png) <!-- Replace with your image path -->
+![Demo Screenshot](demo.png) <!-- Replace with your image path -->
 
 ---
 
